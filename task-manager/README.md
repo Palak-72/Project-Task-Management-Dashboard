@@ -8,7 +8,7 @@ Dashboard
 Total Projects overview
 Total Tasks count
 Completed & Pending tasks tracking
-Dynamic cards with auto-update
+Dynamic cards with auto-update      
 Interactive Pie Chart (task distribution)
 
  Project Management
