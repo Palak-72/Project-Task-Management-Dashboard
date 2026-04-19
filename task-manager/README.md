@@ -29,10 +29,10 @@ Filter tasks by status (All / Completed / Pending)
 Recent Tasks table
 Recent Projects table
 Includes date, status, and actions
-➕ Add Modal
+Add Modal
 Add Task / Project via popup form
 Instant UI update after submission
-🛠️ Tech Stack
+Tech Stack
 Frontend: React.js (Hooks-based)
 Styling: Tailwind CSS
 State Management: Context API
